@@ -1,0 +1,9 @@
+APP="app"
+
+BUILD_HOST="localhost"
+BUILD_USER="root"
+BUILD_AT="/var/src/app"
+
+STAGING_HOSTS="localhost"
+STAGING_USER="root"
+DELIVER_TO="/var/www/app"
